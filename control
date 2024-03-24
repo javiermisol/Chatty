@@ -1,0 +1,10 @@
+Package: Chatty
+Version: 0.26
+Maintainer: Chatty - Twitch Chat Client <chattyclient@gmail.com>
+Section: net
+Homepage: https://chatty.github.io
+Architecture: amd64
+Priority: standard
+Depends: openjdk-11-jdk (>=11.0.22), openjdk-11-jre (>=11.0.22)
+Description: Chatty - Twitch Chat Client
+ Chatty is a chat software specifically made for Twitch, in the spirit of a classic IRC Client. It runs on Windows and any other OS that supports Java 8 or later.
