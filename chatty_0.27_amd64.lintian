@@ -1,0 +1,23 @@
+E: chatty: control-file-has-bad-permissions 0755 != 0644 [md5sums]
+E: chatty: copyright-file-contains-full-gpl-license
+E: chatty: copyright-not-using-common-license-for-gpl
+E: chatty: description-is-pkg-name Chatty
+E: chatty: description-starts-with-package-name
+E: chatty: description-too-short Chatty
+E: chatty: executable-desktop-file 0755 [usr/share/applications/Chatty.desktop]
+E: chatty: executable-in-usr-share-doc 0755 [usr/share/doc/chatty/copyright]
+E: chatty: missing-dep-on-jarwrapper
+E: chatty: no-changelog usr/share/doc/chatty/changelog.gz (native package)
+W: chatty: desktop-command-not-in-package java [usr/share/applications/Chatty.desktop]
+W: chatty: executable-not-elf-or-script [usr/share/Chatty/img/chatty.png]
+W: chatty: executable-not-elf-or-script [usr/share/Chatty/img/chatty_new_1.png]
+W: chatty: executable-not-elf-or-script [usr/share/Chatty/img/chatty_new_2.png]
+W: chatty: executable-not-elf-or-script [usr/share/Chatty/img/chatty_new_4.png]
+W: chatty: executable-not-elf-or-script [usr/share/Chatty/img/star.png]
+W: chatty: executable-not-elf-or-script [usr/share/Chatty/sounds/ding.wav]
+W: chatty: executable-not-elf-or-script [usr/share/Chatty/sounds/dingdong.wav]
+W: chatty: executable-not-elf-or-script [usr/share/Chatty/sounds/typing.wav]
+W: chatty: executable-not-elf-or-script [usr/share/applications/Chatty.desktop]
+W: chatty: executable-not-elf-or-script [usr/share/doc/chatty/copyright]
+W: chatty: executable-not-elf-or-script [usr/share/pixmaps/chatty.png]
+W: chatty: extended-description-line-too-long line 1
